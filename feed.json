@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Provisor Errand Boy Services",
     "description": "",
-    "home_page_url": "https://prenticepoint.github.io/provisor-errand-boy-services",
-    "feed_url": "https://prenticepoint.github.io/provisor-errand-boy-services/feed.json",
+    "home_page_url": "https://prenticepoint.github.io/PEBServe",
+    "feed_url": "https://prenticepoint.github.io/PEBServe/feed.json",
     "user_comment": "",
-    "icon": "https://prenticepoint.github.io/provisor-errand-boy-services/media/website/Logo_PROVISOR-removebg-preview-2.png",
+    "icon": "https://prenticepoint.github.io/PEBServe/media/website/Logo_PROVISOR-removebg-preview-2.png",
     "author": {
         "name": "Prentice Point"
     },

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://prenticepoint.github.io/provisor-errand-boy-services/sitemap.xml
+Sitemap: https://prenticepoint.github.io/PEBServe/sitemap.xml
