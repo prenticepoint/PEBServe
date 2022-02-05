@@ -3,7 +3,7 @@
     <title>Provisor Errand Boy Services</title>
     <link href="https://prenticepoint.github.io/PEBServe/feed.xml" rel="self" />
     <link href="https://prenticepoint.github.io/PEBServe" />
-    <updated>2022-02-05T17:50:17+08:00</updated>
+    <updated>2022-02-05T17:58:08+08:00</updated>
     <author>
         <name>Prentice Point</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://prenticepoint.github.io/PEBServe/pharmacy.html"/>
         <id>https://prenticepoint.github.io/PEBServe/pharmacy.html</id>
 
-        <updated>2022-02-05T17:50:17+08:00</updated>
+        <updated>2022-02-05T17:58:08+08:00</updated>
             <summary>
                 <![CDATA[
                     Pharmacy Medicines &amp; Supplements Medical Equipment &amp; Supplies Adult Diapers Alcohol &amp;&hellip;
@@ -25,13 +25,22 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h3><a href="https://purego.ph/collections/pharmacy-1/store_133">Pharmacy</a></h3>
+                <h3 class="western">Pharmacy</h3>
 <ul>
-<li><a href="https://purego.ph/collections/medicines-supplements/store_133">Medicines &amp; Supplements</a></li>
-<li><a href="https://purego.ph/collections/medical-equipment-supplies/store_133">Medical Equipment &amp; Supplies</a></li>
-<li><a href="https://purego.ph/collections/adult-diapers-1/store_133">Adult Diapers</a></li>
-<li><a href="https://purego.ph/collections/alcohol-sanitizers/store_133">Alcohol &amp; Sanitizers</a></li>
+<li>
+<p>Medicines &amp; Supplements</p>
+</li>
+<li>
+<p>Medical Equipment &amp; Supplies</p>
+</li>
+<li>
+<p>Adult Diapers</p>
+</li>
+<li>
+<p>Alcohol &amp; Sanitizers</p>
+</li>
 </ul>
+<p><br><br></p>
             ]]>
         </content>
     </entry>
@@ -43,49 +52,72 @@
         <link href="https://prenticepoint.github.io/PEBServe/non-food.html"/>
         <id>https://prenticepoint.github.io/PEBServe/non-food.html</id>
 
-        <updated>2022-02-05T17:48:20+08:00</updated>
+        <updated>2022-02-05T17:57:08+08:00</updated>
             <summary>
                 <![CDATA[
-                     Personal Care Hair Care Skin Care Facial Care Feminine Care Body&hellip;
+                    Personal Care Hair Care Skin Care Facial Care Feminine Care Body Care&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="sub-menu">
-<h3><a href="https://purego.ph/collections/personal-care/store_133">Personal Care</a></h3>
+                <h3 class="western">Personal Care</h3>
 <ul>
-<li><a href="https://purego.ph/collections/hair-care-1/store_133">Hair Care</a></li>
-<li><a href="https://purego.ph/collections/skin-care/store_133">Skin Care</a></li>
-<li><a href="https://purego.ph/collections/facial-care/store_133">Facial Care</a></li>
-<li><a href="https://purego.ph/collections/feminine-care/store_133">Feminine Care</a></li>
-<li><a href="https://purego.ph/collections/body-care/store_133">Body Care</a></li>
-<li><a href="https://purego.ph/collections/oral-care/store_133">Oral Care</a></li>
-<li><a href="https://purego.ph/collections/makeup-accessories/store_133">Makeup &amp; Accessories</a></li>
+<li>
+<p>Hair Care</p>
+</li>
+<li>
+<p>Skin Care</p>
+</li>
+<li>
+<p>Facial Care</p>
+</li>
+<li>
+<p>Feminine Care</p>
+</li>
+<li>
+<p>Body Care</p>
+</li>
+<li>
+<p>Oral Care</p>
+</li>
+<li>
+<p>Makeup &amp; Accessories</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/pet-care-1/store_133">Pet Care</a></h3>
+<h3 class="western">Pet Care</h3>
 <ul>
-<li><a href="https://purego.ph/collections/pet-food/store_133">Pet Food</a></li>
-<li><a href="https://purego.ph/collections/pet-vitamins/store_133">Pet Vitamins</a></li>
-<li><a href="https://purego.ph/collections/pet-accessories/store_133">Pet Accessories</a></li>
-<li><a href="https://purego.ph/collections/pet-grooming/store_133">Pet Grooming</a></li>
+<li>
+<p>Pet Food</p>
+</li>
+<li>
+<p>Pet Vitamins</p>
+</li>
+<li>
+<p>Pet Accessories</p>
+</li>
+<li>
+<p>Pet Grooming</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/tobacco-cigarettes/store_133">Tobacco &amp; Cigarettes</a></h3>
+<h3 class="western">Tobacco &amp; Cigarettes</h3>
 <ul>
-<li><a href="https://purego.ph/collections/cigarettes-lighters/store_133">Cigarettes &amp; Lighters</a></li>
+<li>
+<p>Cigarettes &amp; Lighters</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/fashion-1/store_133">Fashion</a></h3>
+<h3 class="western">Fashion</h3>
 <ul>
-<li><a href="https://purego.ph/collections/mens-fashion/store_133">Men's Fashion</a></li>
-<li><a href="https://purego.ph/collections/ladiess-fashion/store_133">Ladies's Fashion</a></li>
-<li><a href="https://purego.ph/collections/footwear/store_133">Footwear</a></li>
+<li>
+<p>Men's Fashion</p>
+</li>
+<li>
+<p>Ladies's Fashion</p>
+</li>
+<li>
+<p>Footwear</p>
+</li>
 </ul>
-</div>
+<p><br><br></p>
             ]]>
         </content>
     </entry>
@@ -97,60 +129,105 @@
         <link href="https://prenticepoint.github.io/PEBServe/fresh-and-frozen.html"/>
         <id>https://prenticepoint.github.io/PEBServe/fresh-and-frozen.html</id>
 
-        <updated>2022-02-05T17:36:12+08:00</updated>
+        <updated>2022-02-05T17:57:30+08:00</updated>
             <summary>
                 <![CDATA[
-                     Fruits &amp; Vegetables Fresh Fruits Fresh Vegetables Frozen Fruits Frozen Vegetables&hellip;
+                    Fruits &amp; Vegetables Fresh Fruits Fresh Vegetables Frozen Fruits Frozen Vegetables Dried&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="sub-menu">
-<h3><a href="https://purego.ph/collections/fruits-vegetables/store_133">Fruits &amp; Vegetables</a></h3>
+                <h3 class="western">Fruits &amp; Vegetables</h3>
 <ul>
-<li><a href="https://purego.ph/collections/fresh-fruits/store_133">Fresh Fruits</a></li>
-<li><a href="https://purego.ph/collections/fresh-vegetables/store_133">Fresh Vegetables</a></li>
-<li><a href="https://purego.ph/collections/frozen-fruits/store_133">Frozen Fruits</a></li>
-<li><a href="https://purego.ph/collections/frozen-vegetables-1/store_133">Frozen Vegetables</a></li>
-<li><a href="https://purego.ph/collections/dried-1/store_133">Dried</a></li>
+<li>
+<p>Fresh Fruits</p>
+</li>
+<li>
+<p>Fresh Vegetables</p>
+</li>
+<li>
+<p>Frozen Fruits</p>
+</li>
+<li>
+<p>Frozen Vegetables</p>
+</li>
+<li>
+<p>Dried</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/meat-poultry-seafood/store_133">Meat Poultry &amp; Seafood</a></h3>
+<h3 class="western">Meat Poultry &amp; Seafood</h3>
 <ul>
-<li><a href="https://purego.ph/collections/beef/store_133">Beef</a></li>
-<li><a href="https://purego.ph/collections/pork/store_133">Pork</a></li>
-<li><a href="https://purego.ph/collections/poultry-1/store_133">Poultry</a></li>
-<li><a href="https://purego.ph/collections/seafood/store_133">Seafood</a></li>
-<li><a href="https://purego.ph/collections/other-meats/store_133">Other Meats</a></li>
-<li><a href="https://purego.ph/collections/frozen-pork/store_133">Frozen Pork</a></li>
-<li><a href="https://purego.ph/collections/frozen-beef/store_133">Frozen Beef</a></li>
-<li><a href="https://purego.ph/collections/frozen-poultry/store_133">Frozen Poultry</a></li>
-<li><a href="https://purego.ph/collections/frozen-seafood/store_133">Frozen Seafood</a></li>
+<li>
+<p>Beef</p>
+</li>
+<li>
+<p>Pork</p>
+</li>
+<li>
+<p>Poultry</p>
+</li>
+<li>
+<p>Seafood</p>
+</li>
+<li>
+<p>Other Meats</p>
+</li>
+<li>
+<p>Frozen Pork</p>
+</li>
+<li>
+<p>Frozen Beef</p>
+</li>
+<li>
+<p>Frozen Poultry</p>
+</li>
+<li>
+<p>Frozen Seafood</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/dairy-chilled/store_133">Dairy &amp; Chilled</a></h3>
+<h3 class="western">Dairy &amp; Chilled</h3>
 <ul>
-<li><a href="https://purego.ph/collections/butter-margarine/store_133">Butter &amp; Margarine</a></li>
-<li><a href="https://purego.ph/collections/fresh-condensed-evaporated-milk/store_133">Fresh Condensed &amp; Evaporated Milk</a></li>
-<li><a href="https://purego.ph/collections/yoghurt-cultured-drinks/store_133">Yoghurt &amp; Cultured Drinks</a></li>
-<li><a href="https://purego.ph/collections/adult-milk-1/store_133">Adult Milk</a></li>
-<li><a href="https://purego.ph/collections/chilled/store_133">Chilled</a></li>
-<li><a href="https://purego.ph/collections/dairy/store_133">Dairy</a></li>
-<li><a href="https://purego.ph/collections/cheese/store_133">Cheeses</a></li>
-<li><a href="https://purego.ph/collections/ice-cream/store_133">Ice Cream</a></li>
+<li>
+<p>Butter &amp; Margarine</p>
+</li>
+<li>
+<p>Fresh Condensed &amp; Evaporated Milk</p>
+</li>
+<li>
+<p>Yoghurt &amp; Cultured Drinks</p>
+</li>
+<li>
+<p>Adult Milk</p>
+</li>
+<li>
+<p>Chilled</p>
+</li>
+<li>
+<p>Dairy</p>
+</li>
+<li>
+<p>Cheeses</p>
+</li>
+<li>
+<p>Ice Cream</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/frozen-deli/store_133">Frozen &amp; Deli</a></h3>
+<h3 class="western">Frozen &amp; Deli</h3>
 <ul>
-<li><a href="https://purego.ph/collections/cold-cuts-ham/store_133">Cold Cuts &amp; Ham</a></li>
-<li><a href="https://purego.ph/collections/sausages/store_133">Sausages</a></li>
-<li><a href="https://purego.ph/collections/ready-to-eat/store_133">Ready To Eat</a></li>
-<li><a href="https://purego.ph/collections/ready-to-cook/store_133">Ready To Cook</a></li>
+<li>
+<p>Cold Cuts &amp; Ham</p>
+</li>
+<li>
+<p>Sausages</p>
+</li>
+<li>
+<p>Ready To Eat</p>
+</li>
+<li>
+<p>Ready To Cook</p>
+</li>
 </ul>
-</div>
+<p><br><br></p>
             ]]>
         </content>
     </entry>
@@ -162,67 +239,114 @@
         <link href="https://prenticepoint.github.io/PEBServe/food-and-beverages.html"/>
         <id>https://prenticepoint.github.io/PEBServe/food-and-beverages.html</id>
 
-        <updated>2022-02-05T17:35:44+08:00</updated>
+        <updated>2022-02-05T17:54:14+08:00</updated>
             <summary>
                 <![CDATA[
-                     Alcoholic Beverages Beers Liquors Wines Beverages Carbonated Drinks Coffee &amp; Creamers&hellip;
+                    Alcoholic Beverages Beers Liquors Wines Carbonated Drinks Coffee &amp; Creamers Chocolate &amp;&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="sub-menu">
-<h3><a href="https://purego.ph/collections/alcoholic-beverages/store_133">Alcoholic Beverages</a></h3>
+                <h3 class="western">Alcoholic Beverages</h3>
 <ul>
-<li><a href="https://purego.ph/collections/beers/store_133">Beers</a></li>
-<li><a href="https://purego.ph/collections/liquors/store_133">Liquors</a></li>
-<li><a href="https://purego.ph/collections/wines/store_133">Wines</a></li>
+<li>
+<p>Beers</p>
+</li>
+<li>
+<p>Liquors</p>
+</li>
+<li>
+<p>Wines</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/beverages/store_133">Beverages</a></h3>
+<h3 class="western">Beverages</h3>
 <ul>
-<li><a href="https://purego.ph/collections/carbonated-drinks-1/store_133">Carbonated Drinks</a></li>
-<li><a href="https://purego.ph/collections/coffee-creamers-1/store_133">Coffee &amp; Creamers</a></li>
-<li><a href="https://purego.ph/collections/chocolate-energy-drinks/store_133">Chocolate &amp; Energy Drinks</a></li>
-<li><a href="https://purego.ph/collections/iced-tea/store_133">Iced Tea</a></li>
-<li><a href="https://purego.ph/collections/juices/store_133">Juices</a></li>
-<li><a href="https://purego.ph/collections/water-1/store_133">Water</a></li>
+<li>
+<p>Carbonated Drinks</p>
+</li>
+<li>
+<p>Coffee &amp; Creamers</p>
+</li>
+<li>
+<p>Chocolate &amp; Energy Drinks</p>
+</li>
+<li>
+<p>Iced Tea</p>
+</li>
+<li>
+<p>Juices</p>
+</li>
+<li>
+<p>Water</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/bakery-1/store_133">Bakery</a></h3>
+<h3 class="western">Bakery</h3>
 <ul>
-<li><a href="https://purego.ph/collections/fresh-bread-rolls/store_133">Fresh Bread &amp; Rolls</a></li>
-<li><a href="https://purego.ph/collections/pastries/store_133">Pastries</a></li>
+<li>
+<p>Fresh Bread &amp; Rolls</p>
+</li>
+<li>
+<p>Pastries</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/pantry-essentials/store_133">Pantry Essentials</a></h3>
+<h3 class="western">Pantry Essentials</h3>
 <ul>
-<li><a href="https://purego.ph/collections/soup/store_133">Soup</a></li>
-<li><a href="https://purego.ph/collections/cooking-oils/store_133">Cooking Oils</a></li>
-<li><a href="https://purego.ph/collections/sugar-sweetener/store_133">Sugar &amp; Sweetener</a></li>
-<li><a href="https://purego.ph/collections/oats-cereal/store_133">Oats &amp; Cereal</a></li>
-<li><a href="https://purego.ph/collections/pasta-noodles/store_133">Pasta Noodles</a></li>
-<li><a href="https://purego.ph/collections/rice-1/store_133">Rice</a></li>
-<li><a href="https://purego.ph/collections/baking-essentials/store_133">Baking Essentials</a></li>
-<li><a href="https://purego.ph/collections/dessert/store_133">Dessert</a></li>
-<li><a href="https://purego.ph/collections/instant-noodles/store_133">Instant Noodles</a></li>
-<li><a href="https://purego.ph/collections/canned-fish-seafood/store_133">Canned Fish &amp; Seafood</a></li>
-<li><a href="https://purego.ph/collections/canned-fruits/store_133">Canned Fruits</a></li>
-<li><a href="https://purego.ph/collections/canned-meat/store_133">Canned Meat</a></li>
-<li><a href="https://purego.ph/collections/canned-vegetables/store_133">Canned Vegetables</a></li>
+<li>
+<p>Soup</p>
+</li>
+<li>
+<p>Cooking Oils</p>
+</li>
+<li>
+<p>Sugar &amp; Sweetener</p>
+</li>
+<li>
+<p>Oats &amp; Cereal</p>
+</li>
+<li>
+<p>Pasta Noodles</p>
+</li>
+<li>
+<p>Rice</p>
+</li>
+<li>
+<p>Baking Essentials</p>
+</li>
+<li>
+<p>Dessert</p>
+</li>
+<li>
+<p>Instant Noodles</p>
+</li>
+<li>
+<p>Canned Fish &amp; Seafood</p>
+</li>
+<li>
+<p>Canned Fruits</p>
+</li>
+<li>
+<p>Canned Meat</p>
+</li>
+<li>
+<p>Canned Vegetables</p>
+</li>
 </ul>
-</div>
-<div class="sub-menu">
-<h3><a href="https://purego.ph/collections/snacks-and-sweets/store_133">Snacks And Sweets</a></h3>
+<h3 class="western">Snacks And Sweets</h3>
 <ul>
-<li><a href="https://purego.ph/collections/chocolate-candies/store_133">Chocolate &amp; Candies</a></li>
-<li><a href="https://purego.ph/collections/cookies-biscuits/store_133">Cookies &amp; Biscuits</a></li>
-<li><a href="https://purego.ph/collections/snacks-1/store_133">Snacks</a></li>
-<li><a href="https://purego.ph/collections/dips-spreads/store_133">Dips &amp; Spreads</a></li>
+<li>
+<p>Chocolate &amp; Candies</p>
+</li>
+<li>
+<p>Cookies &amp; Biscuits</p>
+</li>
+<li>
+<p>Snacks</p>
+</li>
+<li>
+<p>Dips &amp; Spreads</p>
+</li>
 </ul>
-</div>
+<p> </p>
             ]]>
         </content>
     </entry>
