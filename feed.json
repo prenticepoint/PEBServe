@@ -10,5 +10,57 @@
         "name": "Prentice Point"
     },
     "items": [
+        {
+            "id": "https://prenticepoint.github.io/PEBServe/pharmacy.html",
+            "url": "https://prenticepoint.github.io/PEBServe/pharmacy.html",
+            "title": "Pharmacy",
+            "author": {
+                "name": "Prentice Point"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-05T17:40:34+08:00",
+            "date_modified": "2022-02-05T17:40:34+08:00"
+        },
+        {
+            "id": "https://prenticepoint.github.io/PEBServe/non-food.html",
+            "url": "https://prenticepoint.github.io/PEBServe/non-food.html",
+            "title": "Non-Food",
+            "author": {
+                "name": "Prentice Point"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-05T17:40:13+08:00",
+            "date_modified": "2022-02-05T17:40:13+08:00"
+        },
+        {
+            "id": "https://prenticepoint.github.io/PEBServe/fresh-and-frozen.html",
+            "url": "https://prenticepoint.github.io/PEBServe/fresh-and-frozen.html",
+            "title": "Fresh &amp; Frozen",
+            "summary": " Fruits &amp; Vegetables Fresh Fruits Fresh Vegetables Frozen Fruits Frozen Vegetables&hellip;",
+            "content_html": "<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/fruits-vegetables/store_133\">Fruits &amp; Vegetables</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/fresh-fruits/store_133\">Fresh Fruits</a></li>\n<li><a href=\"https://purego.ph/collections/fresh-vegetables/store_133\">Fresh Vegetables</a></li>\n<li><a href=\"https://purego.ph/collections/frozen-fruits/store_133\">Frozen Fruits</a></li>\n<li><a href=\"https://purego.ph/collections/frozen-vegetables-1/store_133\">Frozen Vegetables</a></li>\n<li><a href=\"https://purego.ph/collections/dried-1/store_133\">Dried</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/meat-poultry-seafood/store_133\">Meat Poultry &amp; Seafood</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/beef/store_133\">Beef</a></li>\n<li><a href=\"https://purego.ph/collections/pork/store_133\">Pork</a></li>\n<li><a href=\"https://purego.ph/collections/poultry-1/store_133\">Poultry</a></li>\n<li><a href=\"https://purego.ph/collections/seafood/store_133\">Seafood</a></li>\n<li><a href=\"https://purego.ph/collections/other-meats/store_133\">Other Meats</a></li>\n<li><a href=\"https://purego.ph/collections/frozen-pork/store_133\">Frozen Pork</a></li>\n<li><a href=\"https://purego.ph/collections/frozen-beef/store_133\">Frozen Beef</a></li>\n<li><a href=\"https://purego.ph/collections/frozen-poultry/store_133\">Frozen Poultry</a></li>\n<li><a href=\"https://purego.ph/collections/frozen-seafood/store_133\">Frozen Seafood</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/dairy-chilled/store_133\">Dairy &amp; Chilled</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/butter-margarine/store_133\">Butter &amp; Margarine</a></li>\n<li><a href=\"https://purego.ph/collections/fresh-condensed-evaporated-milk/store_133\">Fresh Condensed &amp; Evaporated Milk</a></li>\n<li><a href=\"https://purego.ph/collections/yoghurt-cultured-drinks/store_133\">Yoghurt &amp; Cultured Drinks</a></li>\n<li><a href=\"https://purego.ph/collections/adult-milk-1/store_133\">Adult Milk</a></li>\n<li><a href=\"https://purego.ph/collections/chilled/store_133\">Chilled</a></li>\n<li><a href=\"https://purego.ph/collections/dairy/store_133\">Dairy</a></li>\n<li><a href=\"https://purego.ph/collections/cheese/store_133\">Cheeses</a></li>\n<li><a href=\"https://purego.ph/collections/ice-cream/store_133\">Ice Cream</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/frozen-deli/store_133\">Frozen &amp; Deli</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/cold-cuts-ham/store_133\">Cold Cuts &amp; Ham</a></li>\n<li><a href=\"https://purego.ph/collections/sausages/store_133\">Sausages</a></li>\n<li><a href=\"https://purego.ph/collections/ready-to-eat/store_133\">Ready To Eat</a></li>\n<li><a href=\"https://purego.ph/collections/ready-to-cook/store_133\">Ready To Cook</a></li>\n</ul>\n</div>",
+            "author": {
+                "name": "Prentice Point"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-05T17:30:06+08:00",
+            "date_modified": "2022-02-05T17:36:12+08:00"
+        },
+        {
+            "id": "https://prenticepoint.github.io/PEBServe/food-and-beverages.html",
+            "url": "https://prenticepoint.github.io/PEBServe/food-and-beverages.html",
+            "title": "Food &amp; Beverages",
+            "summary": " Alcoholic Beverages Beers Liquors Wines Beverages Carbonated Drinks Coffee &amp; Creamers&hellip;",
+            "content_html": "<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/alcoholic-beverages/store_133\">Alcoholic Beverages</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/beers/store_133\">Beers</a></li>\n<li><a href=\"https://purego.ph/collections/liquors/store_133\">Liquors</a></li>\n<li><a href=\"https://purego.ph/collections/wines/store_133\">Wines</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/beverages/store_133\">Beverages</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/carbonated-drinks-1/store_133\">Carbonated Drinks</a></li>\n<li><a href=\"https://purego.ph/collections/coffee-creamers-1/store_133\">Coffee &amp; Creamers</a></li>\n<li><a href=\"https://purego.ph/collections/chocolate-energy-drinks/store_133\">Chocolate &amp; Energy Drinks</a></li>\n<li><a href=\"https://purego.ph/collections/iced-tea/store_133\">Iced Tea</a></li>\n<li><a href=\"https://purego.ph/collections/juices/store_133\">Juices</a></li>\n<li><a href=\"https://purego.ph/collections/water-1/store_133\">Water</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/bakery-1/store_133\">Bakery</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/fresh-bread-rolls/store_133\">Fresh Bread &amp; Rolls</a></li>\n<li><a href=\"https://purego.ph/collections/pastries/store_133\">Pastries</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/pantry-essentials/store_133\">Pantry Essentials</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/soup/store_133\">Soup</a></li>\n<li><a href=\"https://purego.ph/collections/cooking-oils/store_133\">Cooking Oils</a></li>\n<li><a href=\"https://purego.ph/collections/sugar-sweetener/store_133\">Sugar &amp; Sweetener</a></li>\n<li><a href=\"https://purego.ph/collections/oats-cereal/store_133\">Oats &amp; Cereal</a></li>\n<li><a href=\"https://purego.ph/collections/pasta-noodles/store_133\">Pasta Noodles</a></li>\n<li><a href=\"https://purego.ph/collections/rice-1/store_133\">Rice</a></li>\n<li><a href=\"https://purego.ph/collections/baking-essentials/store_133\">Baking Essentials</a></li>\n<li><a href=\"https://purego.ph/collections/dessert/store_133\">Dessert</a></li>\n<li><a href=\"https://purego.ph/collections/instant-noodles/store_133\">Instant Noodles</a></li>\n<li><a href=\"https://purego.ph/collections/canned-fish-seafood/store_133\">Canned Fish &amp; Seafood</a></li>\n<li><a href=\"https://purego.ph/collections/canned-fruits/store_133\">Canned Fruits</a></li>\n<li><a href=\"https://purego.ph/collections/canned-meat/store_133\">Canned Meat</a></li>\n<li><a href=\"https://purego.ph/collections/canned-vegetables/store_133\">Canned Vegetables</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/snacks-and-sweets/store_133\">Snacks And Sweets</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/chocolate-candies/store_133\">Chocolate &amp; Candies</a></li>\n<li><a href=\"https://purego.ph/collections/cookies-biscuits/store_133\">Cookies &amp; Biscuits</a></li>\n<li><a href=\"https://purego.ph/collections/snacks-1/store_133\">Snacks</a></li>\n<li><a href=\"https://purego.ph/collections/dips-spreads/store_133\">Dips &amp; Spreads</a></li>\n</ul>\n</div>",
+            "author": {
+                "name": "Prentice Point"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-02-05T17:29:36+08:00",
+            "date_modified": "2022-02-05T17:35:44+08:00"
+        }
     ]
 }
