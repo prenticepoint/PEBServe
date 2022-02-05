@@ -3,7 +3,7 @@
     <title>Provisor Errand Boy Services</title>
     <link href="https://prenticepoint.github.io/PEBServe/feed.xml" rel="self" />
     <link href="https://prenticepoint.github.io/PEBServe" />
-    <updated>2022-02-05T17:40:34+08:00</updated>
+    <updated>2022-02-05T17:50:17+08:00</updated>
     <author>
         <name>Prentice Point</name>
     </author>
@@ -17,9 +17,23 @@
         <link href="https://prenticepoint.github.io/PEBServe/pharmacy.html"/>
         <id>https://prenticepoint.github.io/PEBServe/pharmacy.html</id>
 
-        <updated>2022-02-05T17:40:34+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-02-05T17:50:17+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Pharmacy Medicines &amp; Supplements Medical Equipment &amp; Supplies Adult Diapers Alcohol &amp;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><a href="https://purego.ph/collections/pharmacy-1/store_133">Pharmacy</a></h3>
+<ul>
+<li><a href="https://purego.ph/collections/medicines-supplements/store_133">Medicines &amp; Supplements</a></li>
+<li><a href="https://purego.ph/collections/medical-equipment-supplies/store_133">Medical Equipment &amp; Supplies</a></li>
+<li><a href="https://purego.ph/collections/adult-diapers-1/store_133">Adult Diapers</a></li>
+<li><a href="https://purego.ph/collections/alcohol-sanitizers/store_133">Alcohol &amp; Sanitizers</a></li>
+</ul>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Non-Food</title>
@@ -29,9 +43,51 @@
         <link href="https://prenticepoint.github.io/PEBServe/non-food.html"/>
         <id>https://prenticepoint.github.io/PEBServe/non-food.html</id>
 
-        <updated>2022-02-05T17:40:13+08:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-02-05T17:48:20+08:00</updated>
+            <summary>
+                <![CDATA[
+                     Personal Care Hair Care Skin Care Facial Care Feminine Care Body&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="sub-menu">
+<h3><a href="https://purego.ph/collections/personal-care/store_133">Personal Care</a></h3>
+<ul>
+<li><a href="https://purego.ph/collections/hair-care-1/store_133">Hair Care</a></li>
+<li><a href="https://purego.ph/collections/skin-care/store_133">Skin Care</a></li>
+<li><a href="https://purego.ph/collections/facial-care/store_133">Facial Care</a></li>
+<li><a href="https://purego.ph/collections/feminine-care/store_133">Feminine Care</a></li>
+<li><a href="https://purego.ph/collections/body-care/store_133">Body Care</a></li>
+<li><a href="https://purego.ph/collections/oral-care/store_133">Oral Care</a></li>
+<li><a href="https://purego.ph/collections/makeup-accessories/store_133">Makeup &amp; Accessories</a></li>
+</ul>
+</div>
+<div class="sub-menu">
+<h3><a href="https://purego.ph/collections/pet-care-1/store_133">Pet Care</a></h3>
+<ul>
+<li><a href="https://purego.ph/collections/pet-food/store_133">Pet Food</a></li>
+<li><a href="https://purego.ph/collections/pet-vitamins/store_133">Pet Vitamins</a></li>
+<li><a href="https://purego.ph/collections/pet-accessories/store_133">Pet Accessories</a></li>
+<li><a href="https://purego.ph/collections/pet-grooming/store_133">Pet Grooming</a></li>
+</ul>
+</div>
+<div class="sub-menu">
+<h3><a href="https://purego.ph/collections/tobacco-cigarettes/store_133">Tobacco &amp; Cigarettes</a></h3>
+<ul>
+<li><a href="https://purego.ph/collections/cigarettes-lighters/store_133">Cigarettes &amp; Lighters</a></li>
+</ul>
+</div>
+<div class="sub-menu">
+<h3><a href="https://purego.ph/collections/fashion-1/store_133">Fashion</a></h3>
+<ul>
+<li><a href="https://purego.ph/collections/mens-fashion/store_133">Men's Fashion</a></li>
+<li><a href="https://purego.ph/collections/ladiess-fashion/store_133">Ladies's Fashion</a></li>
+<li><a href="https://purego.ph/collections/footwear/store_133">Footwear</a></li>
+</ul>
+</div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Fresh &amp; Frozen</title>

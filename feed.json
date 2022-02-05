@@ -14,25 +14,29 @@
             "id": "https://prenticepoint.github.io/PEBServe/pharmacy.html",
             "url": "https://prenticepoint.github.io/PEBServe/pharmacy.html",
             "title": "Pharmacy",
+            "summary": "Pharmacy Medicines &amp; Supplements Medical Equipment &amp; Supplies Adult Diapers Alcohol &amp;&hellip;",
+            "content_html": "<h3><a href=\"https://purego.ph/collections/pharmacy-1/store_133\">Pharmacy</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/medicines-supplements/store_133\">Medicines &amp; Supplements</a></li>\n<li><a href=\"https://purego.ph/collections/medical-equipment-supplies/store_133\">Medical Equipment &amp; Supplies</a></li>\n<li><a href=\"https://purego.ph/collections/adult-diapers-1/store_133\">Adult Diapers</a></li>\n<li><a href=\"https://purego.ph/collections/alcohol-sanitizers/store_133\">Alcohol &amp; Sanitizers</a></li>\n</ul>",
             "author": {
                 "name": "Prentice Point"
             },
             "tags": [
             ],
             "date_published": "2022-02-05T17:40:34+08:00",
-            "date_modified": "2022-02-05T17:40:34+08:00"
+            "date_modified": "2022-02-05T17:50:17+08:00"
         },
         {
             "id": "https://prenticepoint.github.io/PEBServe/non-food.html",
             "url": "https://prenticepoint.github.io/PEBServe/non-food.html",
             "title": "Non-Food",
+            "summary": " Personal Care Hair Care Skin Care Facial Care Feminine Care Body&hellip;",
+            "content_html": "<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/personal-care/store_133\">Personal Care</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/hair-care-1/store_133\">Hair Care</a></li>\n<li><a href=\"https://purego.ph/collections/skin-care/store_133\">Skin Care</a></li>\n<li><a href=\"https://purego.ph/collections/facial-care/store_133\">Facial Care</a></li>\n<li><a href=\"https://purego.ph/collections/feminine-care/store_133\">Feminine Care</a></li>\n<li><a href=\"https://purego.ph/collections/body-care/store_133\">Body Care</a></li>\n<li><a href=\"https://purego.ph/collections/oral-care/store_133\">Oral Care</a></li>\n<li><a href=\"https://purego.ph/collections/makeup-accessories/store_133\">Makeup &amp; Accessories</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/pet-care-1/store_133\">Pet Care</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/pet-food/store_133\">Pet Food</a></li>\n<li><a href=\"https://purego.ph/collections/pet-vitamins/store_133\">Pet Vitamins</a></li>\n<li><a href=\"https://purego.ph/collections/pet-accessories/store_133\">Pet Accessories</a></li>\n<li><a href=\"https://purego.ph/collections/pet-grooming/store_133\">Pet Grooming</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/tobacco-cigarettes/store_133\">Tobacco &amp; Cigarettes</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/cigarettes-lighters/store_133\">Cigarettes &amp; Lighters</a></li>\n</ul>\n</div>\n<div class=\"sub-menu\">\n<h3><a href=\"https://purego.ph/collections/fashion-1/store_133\">Fashion</a></h3>\n<ul>\n<li><a href=\"https://purego.ph/collections/mens-fashion/store_133\">Men's Fashion</a></li>\n<li><a href=\"https://purego.ph/collections/ladiess-fashion/store_133\">Ladies's Fashion</a></li>\n<li><a href=\"https://purego.ph/collections/footwear/store_133\">Footwear</a></li>\n</ul>\n</div>",
             "author": {
                 "name": "Prentice Point"
             },
             "tags": [
             ],
             "date_published": "2022-02-05T17:40:13+08:00",
-            "date_modified": "2022-02-05T17:40:13+08:00"
+            "date_modified": "2022-02-05T17:48:20+08:00"
         },
         {
             "id": "https://prenticepoint.github.io/PEBServe/fresh-and-frozen.html",
